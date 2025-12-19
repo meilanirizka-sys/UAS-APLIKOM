@@ -1,1 +1,6 @@
 Nama: Rizka
+
+NIM:
+
+Judul:
+

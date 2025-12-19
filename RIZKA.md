@@ -1,7 +1,5 @@
-<!doctype html>
-<html>
-<head><meta charset="utf-8"><title>My Site</title></head>
-<body><h1>Halo, dunia!</h1></body>
+
+<body><h1>Halo, dunia!Saya Rizka</h1></body>
 </html>
 
 NAMA
